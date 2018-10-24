@@ -1,5 +1,8 @@
-# Official Style Guide for [Aksorn.org](https://aksorn.org/)
-![Photo by Iudexvivorum (CC0), from Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bangkok_National_Museum_-_2017-06-11_%28106%29.jpg/675px-Bangkok_National_Museum_-_2017-06-11_%28106%29.jpg)
+# Official Style Guide for [Aksorn](https://aksorn.org/)
+
+This is the official reference that is applied by the Aksorn engine. Like a secret sauce minus the secrecy.
+
+For more information please refer to [About Aksorn](https://aksorn.org/about).
 
 ## Syntax
 ### Ruleset
