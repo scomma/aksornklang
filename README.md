@@ -27,6 +27,10 @@ suggest
 ```
 
 The _pattern_ is a regular expression. It usually employes lookbehinds heavily to prevent false positives, because the text is not tokenized before being processed. The _suggest_ part is just plain text.
+### Regular Expression
+Regular expression is a standard programming language for describing patterns. If you are not familiar with it, read this [introduction to regular expression in Thai](https://devahoy.com/posts/regular-expressions-101/), then test your patterns in [Rubular](http://rubular.com/). Even if you are familiar with it, Rubular can be tremendously helpful.
+
+Sometimes it is necessary to use [lookbehind assertions](https://www.regular-expressions.info/lookaround.html) in our patterns, but many  major browser engines do not support it, with an exception of Google Chrome. The Aksorn engine will ignore those patterns. There is no way around this problem except petitioning browser vendors.
 
 ## Contributing
 0. If you are not fluent in regular expression, feel free to open an issue so that someone fluent may step in.
