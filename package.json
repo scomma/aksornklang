@@ -1,0 +1,22 @@
+{
+  "name": "aksornklang",
+  "version": "1.0.0",
+  "description": "This is the official reference that is applied by the Aksorn engine. Like a secret sauce minus the secrecy.",
+  "main": "rulebook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scomma/aksornklang.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scomma/aksornklang/issues"
+  },
+  "homepage": "https://github.com/scomma/aksornklang#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
